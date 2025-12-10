@@ -4,7 +4,7 @@ A curated showcase of my research, development, UX thinking, and product experim
 
 | 💼Project | 📂Description | 🔗Link |
 |--------|-------------|------|
-| **1️⃣ Just Click – AI Manual Tester** | AI-powered testing engine that reduces manual effort by **70%**. | [View](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md) |
-| **2️⃣ Keyword Subscription – epaper** | Lets readers subscribe to keywords for personalized news. | [View](https://github.com/Raguram-N/The_Hindu/blob/main/README.md) |
-| **3️⃣ Tik-Tik – Smart Timer Delivery** | Delivery countdown system reducing anxiety and improving trust. | [View](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md) |
+| **1️⃣ Just feel what you hear** | BillianceAI transforms admission calls into visual storytelling moments. | [View](https://github.com/Raguram-N/BillianceAI-1/blob/main/README.md ) |
+| **2️⃣ 24×7 Personal Mentor** |  24×7 AI Teacher + Evaluator + Guide + Coach | [View](https://github.com/Raguram-N/BillianceAI-2/blob/main/README.md) |
+| **3️⃣ AI Assistant for Public Grievance Handling** |  AI - help public service offices and communicate with citizens responsibly. | [View](https://github.com/Raguram-N/BillianceAI-Felina-Election-support-/blob/main/README.md ) |
 
